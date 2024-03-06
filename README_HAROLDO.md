@@ -1,5 +1,11 @@
 Desafio - Analista de dados júnior
 
+OBS: devido ao tamanho da base sql tratada e do Jupyter notebook serem muito grandes para o github, ou seja ultrapassar os 100 mb permitidos pelo git, os arquivos foram salvos em um drive e seram compartilhados atraves do link,
+
+link do Jupyter notebook https://drive.google.com/file/d/1zdvsM2RIQ6N_bdLMuSN2KAUe0SJYfhoC/view?usp=sharing
+
+link da base SQL https://drive.google.com/file/d/1F0epmV9d1VOAJQANYA396V1nDC1oU2k1/view?usp=sharing
+
 Neste desafio, tivemos 5 desafios que consistiram em:
 
 Utilizar o Python para conectar aos nossos arquivos CSV e, em seguida, transformá-los em SQLite. Para isso, utilizamos as bibliotecas zipfile e os.
